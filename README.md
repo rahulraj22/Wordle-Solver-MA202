@@ -11,8 +11,8 @@
 five letters. The player is given six attempts to determine the word correctly.
   - Each day a new word is to be guessed in the Wordle. Daily Wordle is the same for everyone.
 
-- `Project Demonstration` | Wordle Solver <br> <br>
-<video src="CodeWorking_Demonstration.mp4" controls title="Title"></video>
+- `Project Demonstration`: 
+[Demo](https://drive.google.com/file/d/1cLGUJk_3QIBmfHo8ykq4TPLR-59gvDv0/view?usp=sharing)
 
 - `Project Report` :
 [MA202: Project Report Wordle-Solver](MA202_ProjectReport_WordleSolver.pdf)
