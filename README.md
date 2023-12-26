@@ -19,3 +19,4 @@ five letters. The player is given six attempts to determine the word correctly.
 
 
 - Give it a try: [Wordle Puzzle](https://www.nytimes.com/games/wordle/index.html)
+---
